@@ -1,0 +1,26 @@
+{
+  "name": "tugas-grafkom",
+  "version": "1.0.0",
+  "description": "kumpulan tugas grafika komputer sem 5 ITS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tugas2": "nodemon Tugas-02/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ferdi761/Tugas-Grafika-Komputer.git"
+  },
+  "author": "AchFerdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferdi761/Tugas-Grafika-Komputer/issues"
+  },
+  "homepage": "https://github.com/Ferdi761/Tugas-Grafika-Komputer#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
